@@ -1,6 +1,6 @@
 const nameGirl = 'Bé iu';
 const giftUrl = 'https://www.facebook.com/theanh.24.8';
-const eventName = 'Chúc Mừng 8/3';
+const eventName = 'Chúc Mừng các bạn 20/11';
 const titleCard = 'Tặng các bạn';
 const contentCard = 'Chúc các cháu xinh như ảnh thờ nhà cụ';
 
